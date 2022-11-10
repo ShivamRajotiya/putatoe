@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+}
+.logo {
+  height: 65px;
+  width: 65px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+.nav {
+  position: sticky;
+  display: flex;
+  background: rgb(36, 129, 145);
+  height: 80px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+.first,
+.second {
+  display: flex;
+  margin-top: 5px;
+  justify-content: center;
+  align-items: center;
+}
+.search {
+  width: 490px;
+  height: 41px;
+  margin-right: 8px;
+  background: white;
+  display: flex;
+  border-radius: 4px;
+  margin-left: 220px;
+  /* margin-left: -10px; */
+}
+.si {
+  color: rgb(36, 129, 145);
+  margin-left: 200px;
+  width: 10px;
+}
+.p {
+  margin-left: 10px;
+  cursor: pointer;
+}
+.icons {
+  display: flex;
+  color: white;
+  cursor: pointer;
+  margin-right: 130px;
+  margin-left: -80px;
+  
+}
+.cart{
+  margin-left: 16px;
+  margin-right: 16px;
+}
+.login {
+  margin-right: 19px;
+  color: rgb(36, 129, 145);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 28px;
+  background: white;
+  width: 90px;
+  cursor: pointer;
+  /* padding-left: 12px; */
+  padding-top: 5px;
+  padding-bottom: 4px;
+  border-radius: 3px;
+}
+.search::placeholder {
+  color: greenyellow;
+}
+.p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.input {
+  width: 140px;
+}

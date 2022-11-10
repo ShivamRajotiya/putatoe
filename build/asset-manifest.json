@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.601c7c1a.css",
+    "main.js": "/static/js/main.a62a9e7c.js",
+    "static/media/sports-goods.png": "/static/media/sports-goods.50835ed4dcafb9761702.png",
+    "static/media/event.png": "/static/media/event.a3a5d28322822b012224.png",
+    "static/media/food.png": "/static/media/food.ba6103fcff95fab181b0.png",
+    "static/media/education.png": "/static/media/education.e4f646f6df9f22930f93.png",
+    "static/media/banner.png": "/static/media/banner.669c140930482a53e5c9.png",
+    "static/media/home.png": "/static/media/home.390bff0398e8aa96e0ee.png",
+    "static/media/best-quality.png": "/static/media/best-quality.1d2b88fb5e3ca31979ab.png",
+    "static/media/logo.png": "/static/media/logo.aa9da4f6375a03f8abbe.png",
+    "static/media/logo2.png": "/static/media/logo2.aa9da4f6375a03f8abbe.png",
+    "index.html": "/index.html",
+    "main.601c7c1a.css.map": "/static/css/main.601c7c1a.css.map",
+    "main.a62a9e7c.js.map": "/static/js/main.a62a9e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.601c7c1a.css",
+    "static/js/main.a62a9e7c.js"
+  ]
+}

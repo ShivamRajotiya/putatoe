@@ -1,0 +1,99 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+}
+.col-1 {
+  display: flex;
+  height: 90px;
+  background: rgb(24, 180, 189);
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+  color: white;
+}
+h5 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 13px;
+  justify-content: space-around;
+  white-space: nowrap;
+}
+
+.all {
+  display: flex;
+  flex-direction: column;
+  width: 40px;
+  height: 40px;
+  padding: 6px;
+  margin-bottom: 19px;
+  border-radius: 50%;
+  background: white;
+  cursor: pointer;
+}
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cont-img {
+  display: flex;
+  height: 29vh;
+  justify-content: space-around;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.products h2 {
+  margin-top: 30px;
+  font-size: 32px;
+  color: rgb(37, 129, 145);
+  margin-left: 33px;
+}
+
+.footer{
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  background: rgb(36, 129, 145);
+height: 270px;
+}
+.right{
+  margin-top: 30px;
+  margin-right: 80px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.links{
+  display: flex;
+justify-content: space-around;
+  color: rgb(41, 40, 40);
+  margin-bottom: 20px;
+}
+.new-icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 40px;
+  background: white;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.about{
+  color: white;
+  margin-bottom: 40px;
+}
+.left{
+  display: flex;
+  flex-direction: column;
+  margin-left: 59px;
+  justify-content: space-evenly;
+}
+.logo-2{
+  height: 110px;
+  width: 110px;
+  cursor: pointer;
+}
